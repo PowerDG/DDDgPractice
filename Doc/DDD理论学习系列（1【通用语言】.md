@@ -1,10 +1,7 @@
 # DDD理论学习系列（1）-- 通用语言
 
-​             ![96](https://upload.jianshu.io/users/upload_avatars/2799767/0b0f3fb5-f8b9-4bf4-ac1d-b94468c2e1c8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96) 
+    [圣杰](https://www.jianshu.com/u/39ec0e6b1844)                          
 
-​             [圣杰](https://www.jianshu.com/u/39ec0e6b1844)                          
-
-​                                2017.05.06 14:58*               字数 1733             阅读 5471评论 11喜欢 26
 
 > [DDD理论学习系列——案例及目录](https://www.jianshu.com/p/6e2917551e63)
 
