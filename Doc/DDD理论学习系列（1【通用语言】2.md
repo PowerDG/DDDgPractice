@@ -1,22 +1,25 @@
 # DDD理论学习系列（1）-- 通用语言
 
-    [圣杰](https://www.jianshu.com/u/39ec0e6b1844)                          
+​             ![96](https://upload.jianshu.io/users/upload_avatars/2799767/0b0f3fb5-f8b9-4bf4-ac1d-b94468c2e1c8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96) 
 
+​             [圣杰](https://www.jianshu.com/u/39ec0e6b1844)                          
+
+​                                2017.05.06 14:58*               字数 1733             阅读 5471评论 11喜欢 26
 
 > [DDD理论学习系列——案例及目录](https://www.jianshu.com/p/6e2917551e63)
 
 ---
-![](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548224371210.png)
+![](DDD理论学习系列（1[通用语言].assets/1548224371210.png)
 
-![](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548224420015.png)
-
-
-
-![1548224626280](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548224626280.png)
+![](DDD理论学习系列（1[通用语言].assets/1548224420015.png)
 
 
 
-![1548224614260](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548224614260.png)
+![1548224626280](DDD理论学习系列（1[通用语言].assets/1548224626280.png)
+
+
+
+![1548224614260](DDD理论学习系列（1[通用语言].assets/1548224614260.png)
 
 
 
@@ -24,15 +27,15 @@
 
 ### 着陆于领域驱动设计
 
-![1548226002209](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548226002209.png)
+![1548226002209](DDD理论学习系列（1[通用语言].assets/1548226002209.png)
 
 
 
-![1548226035508](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548226035508.png)
+![1548226035508](DDD理论学习系列（1[通用语言].assets/1548226035508.png)
 
 方位  视野
 
-![1548226134756](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548226134756.png)
+![1548226134756](DDD理论学习系列（1[通用语言].assets/1548226134756.png)
 
 
 
@@ -42,7 +45,7 @@
 
 冒险之路有更多的架构和模式集成多个领域模型；集成方法；开发自治性服务。
 
-![1548226611836](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548226611836.png)
+![1548226611836](DDD理论学习系列（1[通用语言].assets/1548226611836.png)
 
 
 
@@ -56,19 +59,19 @@
 
 战略 战术偏解决问题【战术性模式】
 
-![1548227105468](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548227105468.png)
+![1548227105468](DDD理论学习系列（1[通用语言].assets/1548227105468.png)
 
 通用语言 -业务领域的概念 术语（与建模模式同样重要）
 
-![1548227089341](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548227089341.png)
+![1548227089341](DDD理论学习系列（1[通用语言].assets/1548227089341.png)
 
 限界上下文 增加业务价值（模型业务丰满，业务纯洁）
 
-![1548227081085](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548227081085.png)
+![1548227081085](DDD理论学习系列（1[通用语言].assets/1548227081085.png)
 
 且不过分拘泥细节
 
-![1548227148229](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548227148229.png)
+![1548227148229](DDD理论学习系列（1[通用语言].assets/1548227148229.png)
 
 
 
@@ -99,41 +102,41 @@
 ## Java和开发工具
 Product Backlog产品待定项
 
-![1548227812022](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548227812022.png)
+![1548227812022](DDD理论学习系列（1[通用语言].assets/1548227812022.png)
 
 甘特图（Gantt Chart）
 
 C#.Net  与Java
 
-![1548227842021](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548227842021.png)
+![1548227842021](DDD理论学习系列（1[通用语言].assets/1548227842021.png)
 
 ---
 
 ## 如何使用此书
 
-![1548228116864](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228116864.png)
+![1548228116864](DDD理论学习系列（1[通用语言].assets/1548228116864.png)
 
-![1548228138201](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228138201.png)
+![1548228138201](DDD理论学习系列（1[通用语言].assets/1548228138201.png)
 
-![1548228154410](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228154410.png)
+![1548228154410](DDD理论学习系列（1[通用语言].assets/1548228154410.png)
 
 #### 架构
 
-![1548228174237](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228174237.png)
+![1548228174237](DDD理论学习系列（1[通用语言].assets/1548228174237.png)
 
-![1548228184095](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228184095.png)
+![1548228184095](DDD理论学习系列（1[通用语言].assets/1548228184095.png)
 
 #### 战术建模
 
-![1548228215381](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228215381.png)
+![1548228215381](DDD理论学习系列（1[通用语言].assets/1548228215381.png)
 
-![1548228244333](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228244333.png)
+![1548228244333](DDD理论学习系列（1[通用语言].assets/1548228244333.png)
 
 #### 领域事件
 
-![1548228261342](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228261342.png)
+![1548228261342](DDD理论学习系列（1[通用语言].assets/1548228261342.png)
 
-![1548228273449](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228273449.png)
+![1548228273449](DDD理论学习系列（1[通用语言].assets/1548228273449.png)
 
 ---
 
@@ -141,105 +144,105 @@ C#.Net  与Java
 
 业务领域 ；软件模型
 
-![1548228345000](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228345000.png)
+![1548228345000](DDD理论学习系列（1[通用语言].assets/1548228345000.png)
 
-![1548228424315](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228424315.png)
+![1548228424315](DDD理论学习系列（1[通用语言].assets/1548228424315.png)
 
 领域专家
 
-![1548228536434](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228536434.png)
+![1548228536434](DDD理论学习系列（1[通用语言].assets/1548228536434.png)
 
 ##  为什么我们需要DDD
 
-![1548228661781](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228661781.png)
+![1548228661781](DDD理论学习系列（1[通用语言].assets/1548228661781.png)
 
 难以捉摸的业务价值
 
-![1548228789108](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228789108.png)
+![1548228789108](DDD理论学习系列（1[通用语言].assets/1548228789108.png)
 
-![1548228826681](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548228826681.png)
+![1548228826681](DDD理论学习系列（1[通用语言].assets/1548228826681.png)
 
 DDD如何帮助我们
 
-![1548231937117](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548231937117.png)
+![1548231937117](DDD理论学习系列（1[通用语言].assets/1548231937117.png)
 
 处理领域复杂性
 
-![1548231996058](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548231996058.png)
+![1548231996058](DDD理论学习系列（1[通用语言].assets/1548231996058.png)
 
 DDD记分卡
 
-![1548232275279](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548232275279.png)
+![1548232275279](DDD理论学习系列（1[通用语言].assets/1548232275279.png)
 
-![1548232314399](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548232314399.png)
+![1548232314399](DDD理论学习系列（1[通用语言].assets/1548232314399.png)
 
 贫血领域对象
 
-![1548232395543](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548232395543.png)
+![1548232395543](DDD理论学习系列（1[通用语言].assets/1548232395543.png)
 
-![1548232673877](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548232673877.png)
+![1548232673877](DDD理论学习系列（1[通用语言].assets/1548232673877.png)
 
-![1548233156394](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233156394.png)
+![1548233156394](DDD理论学习系列（1[通用语言].assets/1548233156394.png)
 
-![1548233158929](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233158929.png)
+![1548233158929](DDD理论学习系列（1[通用语言].assets/1548233158929.png)
 
 当然有非空处理
 
-![1548233233335](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233233335.png)
+![1548233233335](DDD理论学习系列（1[通用语言].assets/1548233233335.png)
 
-![1548233258135](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233258135.png)
+![1548233258135](DDD理论学习系列（1[通用语言].assets/1548233258135.png)
 
 ---
 
 如何DDD
 
-![1548233348432](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233348432.png)
+![1548233348432](DDD理论学习系列（1[通用语言].assets/1548233348432.png)
 
-![1548233435169](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233435169.png)
+![1548233435169](DDD理论学习系列（1[通用语言].assets/1548233435169.png)
 
-![1548233493346](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233493346.png)
+![1548233493346](DDD理论学习系列（1[通用语言].assets/1548233493346.png)
 
 一遍又一遍的提炼
 
 ####  是通用不是万能
 
-![1548233644090](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233644090.png)
+![1548233644090](DDD理论学习系列（1[通用语言].assets/1548233644090.png)
 
 #### 使用DDD的业务价值
 
-![1548233743778](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233743778.png)
+![1548233743778](DDD理论学习系列（1[通用语言].assets/1548233743778.png)
 
-![1548233806578](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233806578.png)
+![1548233806578](DDD理论学习系列（1[通用语言].assets/1548233806578.png)
 
-![1548233956078](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548233956078.png)
+![1548233956078](DDD理论学习系列（1[通用语言].assets/1548233956078.png)
 
 #### 实施DDD面临的挑战
 
-![1548234092750](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548234092750.png)
+![1548234092750](DDD理论学习系列（1[通用语言].assets/1548234092750.png)
 
-![1548234273901](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548234273901.png)
+![1548234273901](DDD理论学习系列（1[通用语言].assets/1548234273901.png)
 
-![1548234336654](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548234336654.png)
+![1548234336654](DDD理论学习系列（1[通用语言].assets/1548234336654.png)
 
-![1548234410325](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548234410325.png)
+![1548234410325](DDD理论学习系列（1[通用语言].assets/1548234410325.png)
 
 ### 为领域建模正名
 
-![1548234695266](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548234695266.png)
+![1548234695266](DDD理论学习系列（1[通用语言].assets/1548234695266.png)
 
-![1548234776684](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548234776684.png)
+![1548234776684](DDD理论学习系列（1[通用语言].assets/1548234776684.png)
 
-![1548234873335](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548234873335.png)
+![1548234873335](DDD理论学习系列（1[通用语言].assets/1548234873335.png)
 
-![1548234950856](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548234950856.png)
+![1548234950856](DDD理论学习系列（1[通用语言].assets/1548234950856.png)
 
 ---
 
-![1548235037714](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548235037714.png)
+![1548235037714](DDD理论学习系列（1[通用语言].assets/1548235037714.png)
 
-![1548235079588](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548235079588.png)
+![1548235079588](DDD理论学习系列（1[通用语言].assets/1548235079588.png)
 
-![1548235126328](https://github.com/PowerDG/DDDgPractice/blob/master/Doc/DDD理论学习系列（1【通用语言】.assets/1548235126328.png)
+![1548235126328](DDD理论学习系列（1[通用语言].assets/1548235126328.png)
 
 
 
