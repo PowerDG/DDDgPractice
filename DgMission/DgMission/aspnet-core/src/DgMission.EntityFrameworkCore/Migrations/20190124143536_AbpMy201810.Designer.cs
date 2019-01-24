@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DgMission.Migrations
 {
     [DbContext(typeof(DgMissionDbContext))]
-    [Migration("20190124090042_AbpMy201809")]
-    partial class AbpMy201809
+    [Migration("20190124143536_AbpMy201810")]
+    partial class AbpMy201810
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
