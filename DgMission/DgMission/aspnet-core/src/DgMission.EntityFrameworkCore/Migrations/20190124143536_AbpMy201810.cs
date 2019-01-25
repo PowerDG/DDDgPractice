@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace DgMission.Migrations
 {
-    public partial class AbpMy201809 : Migration
+    public partial class AbpMy201810 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

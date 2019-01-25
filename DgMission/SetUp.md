@@ -7,9 +7,7 @@ url:rm-m5eo20y3da0474671mo.mysql.rds.aliyuncs.com
 端口：3306
 账号：db_develop
 密码：11qaz!11QAZ
-
-
-
+ 
 先删除所有迁移
 
 Add-Migration "AbpMy"
@@ -18,8 +16,7 @@ Add-Migration AbpMy201810
 
 Update-Database
 
-
-
+ 
 namespace DgMission.EntityFrameworkCore
 {
 ​    public static class DgMissionDbContextConfigurer
@@ -58,13 +55,7 @@ namespace DgMission.EntityFrameworkCore
 ​        "Default": "Server=localhost; ;port=3306;database=DgMissionDb;uid=root;password=wsx1001"
 ​    },
 
-先删除所有迁移
 
-Add-Migration "AbpMy"
-
-Add-Migration AbpMy201810
-
-Update-Database
 
 ALTER TABLE `AbpUserLoginAttempts` RENAME INDEX `IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Result` TO `IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Resu~`;
 
