@@ -8,6 +8,18 @@ url:rm-m5eo20y3da0474671mo.mysql.rds.aliyuncs.com
 账号：db_develop
 密码：11qaz!11QAZ
 
+
+
+先删除所有迁移
+
+Add-Migration "AbpMy"
+
+Add-Migration AbpMy201810
+
+Update-Database
+
+
+
 namespace DgMission.EntityFrameworkCore
 {
 ​    public static class DgMissionDbContextConfigurer
@@ -60,6 +72,10 @@ IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Resu
 
 Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
 ALTER TABLE `AbpUserLoginAttempts` RENAME INDEX `IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Result` TO `IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Resu~`;
+
+
+
+
 
 
 
