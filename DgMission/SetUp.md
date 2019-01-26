@@ -16,7 +16,16 @@ Add-Migration AbpMy201810
 
 Update-Database
 
+The specified framework version '2.1' could not be parsed The specified framework 'Microsoft.NETCore.App', version '2.1' was not found.
 
+出现下面的错误，只要把EntityFramewrokCore项目设置为启动项目，
+
+再次执行add-migration命令就成功了。
+--------------------- 
+作者：yurixu 
+来源：CSDN 
+原文：https://blog.csdn.net/Yurixu/article/details/84578308 
+版权声明：本文为博主原创文章，转载请附上博文链接！
 
 
 
