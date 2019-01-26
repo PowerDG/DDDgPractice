@@ -7,7 +7,7 @@ url:rm-m5eo20y3da0474671mo.mysql.rds.aliyuncs.com
 端口：3306
 账号：db_develop
 密码：11qaz!11QAZ
-
+ 
 先删除所有迁移
 
 Add-Migration "AbpMy"
@@ -15,7 +15,7 @@ Add-Migration "AbpMy"
 Add-Migration AbpMy201810
 
 Update-Database
-
+ 
 The specified framework version '2.1' could not be parsed The specified framework 'Microsoft.NETCore.App', version '2.1' was not found.
 
 出现下面的错误，只要把EntityFramewrokCore项目设置为启动项目，
@@ -27,8 +27,7 @@ The specified framework version '2.1' could not be parsed The specified framewor
 原文：https://blog.csdn.net/Yurixu/article/details/84578308 
 版权声明：本文为博主原创文章，转载请附上博文链接！
 
-
-
+ 
 namespace DgMission.EntityFrameworkCore
 {
 ​    public static class DgMissionDbContextConfigurer
@@ -75,6 +74,10 @@ IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Resu
 
 Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
 ALTER TABLE `AbpUserLoginAttempts` RENAME INDEX `IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Result` TO `IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Resu~`;
+
+
+
+
 
 
 
