@@ -72,6 +72,8 @@ namespace DgMission.EntityFrameworkCore
 ​        "Default": "Server=localhost; ;port=3306;database=DgMissionDb;uid=root;password=wsx1001"
 ​    },
 
+---
+
 
 
 ALTER TABLE `AbpUserLoginAttempts` RENAME INDEX `IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Result` TO `IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Resu~`;
