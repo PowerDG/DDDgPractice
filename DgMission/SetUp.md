@@ -7,7 +7,6 @@ url:rm-m5eo20y3da0474671mo.mysql.rds.aliyuncs.com
 端口：3306
 账号：db_develop
 密码：11qaz!11QAZ
- 
 先删除所有迁移
 
 Add-Migration "AbpMy"
