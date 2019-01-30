@@ -13,7 +13,7 @@ https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-web-api?view=aspnet
 ```powershell
 创建
 dotnet new webapi -o TodoApi
-
+dotnet new webapi -o CoreDg2019
 VSCode打开
 code -r TodoApi
 ```

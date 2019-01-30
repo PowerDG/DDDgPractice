@@ -1,0 +1,14 @@
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.deps.json
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.json
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.dev.json
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.dll
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.pdb
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csprojAssemblyReference.cache
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csproj.CoreCompileInputs.cache
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cache
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cs
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfoInputs.cache
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfo.cs
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorTargetAssemblyInfo.cache
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.dll
+E:\GitHub\DDDgPractice\VSCodeInit\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.pdb
