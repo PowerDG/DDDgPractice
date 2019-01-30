@@ -106,3 +106,9 @@ docker runm -d -p
 docker run 8001:80 --hellomongo
 ```
 
+
+
+### 单机架构
+
+![1548816605827](Docker01.assets/1548816605827.png)
+
