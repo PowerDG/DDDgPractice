@@ -13,9 +13,12 @@ https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-web-api?view=aspnet
 ```powershell
 创建
 dotnet new webapi -o TodoApi
-dotnet new webapi -o CoreDg2019
+dotnet new webapi -o BooksApi --no-https
 VSCode打开
 code -r TodoApi
+
+运行以下命令以安装适用于 MongoDB 的 .NET 驱动程序：
+ 
 ```
 
 
