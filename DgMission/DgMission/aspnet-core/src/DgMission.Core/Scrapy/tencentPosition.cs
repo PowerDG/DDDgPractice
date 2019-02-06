@@ -8,6 +8,8 @@ namespace DgMission.Scrapy
 {
     public class TencentPosition:Entity, ICreationAudited
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]  //取消主键自增长，否则出现显示主键inseret 出错
 
         public string position_name { get; set; }
         public string position_link { get; set; }
