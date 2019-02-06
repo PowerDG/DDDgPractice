@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DgMission.Migrations
 {
     [DbContext(typeof(DgMissionDbContext))]
-    [Migration("20190206014345_AbpMy2018Scrapy")]
-    partial class AbpMy2018Scrapy
+    [Migration("20190206134231_AbpMy201812")]
+    partial class AbpMy201812
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -1037,12 +1037,8 @@ namespace DgMission.Migrations
 
             modelBuilder.Entity("DgMission.Scrapy.TencentPosition", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int?>("Id")
                         .ValueGeneratedOnAdd();
-
-                    b.Property<DateTime>("CreationTime");
-
-                    b.Property<long?>("CreatorUserId");
 
                     b.Property<uint>("people_num");
 

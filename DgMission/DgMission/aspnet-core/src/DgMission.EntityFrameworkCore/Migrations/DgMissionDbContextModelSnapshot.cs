@@ -1035,12 +1035,8 @@ namespace DgMission.Migrations
 
             modelBuilder.Entity("DgMission.Scrapy.TencentPosition", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int?>("Id")
                         .ValueGeneratedOnAdd();
-
-                    b.Property<DateTime>("CreationTime");
-
-                    b.Property<long?>("CreatorUserId");
 
                     b.Property<uint>("people_num");
 

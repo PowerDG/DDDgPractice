@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DgMission.Migrations
 {
     [DbContext(typeof(DgMissionDbContext))]
-    [Migration("20190124143536_AbpMy201810")]
+    [Migration("20190206133946_AbpMy201810")]
     partial class AbpMy201810
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -1033,6 +1033,28 @@ namespace DgMission.Migrations
                     b.HasIndex("TenancyName");
 
                     b.ToTable("AbpTenants");
+                });
+
+            modelBuilder.Entity("DgMission.Scrapy.TencentPosition", b =>
+                {
+                    b.Property<int?>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<uint>("people_num");
+
+                    b.Property<string>("position_link");
+
+                    b.Property<string>("position_name");
+
+                    b.Property<string>("position_type");
+
+                    b.Property<string>("publish_time");
+
+                    b.Property<string>("work_address");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("TencentPositions");
                 });
 
             modelBuilder.Entity("Abp.Application.Features.EditionFeatureSetting", b =>
