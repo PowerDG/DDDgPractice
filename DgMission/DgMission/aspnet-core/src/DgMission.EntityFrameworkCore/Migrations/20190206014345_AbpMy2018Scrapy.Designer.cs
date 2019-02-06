@@ -3,14 +3,16 @@ using System;
 using DgMission.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DgMission.Migrations
 {
     [DbContext(typeof(DgMissionDbContext))]
-    partial class DgMissionDbContextModelSnapshot : ModelSnapshot
+    [Migration("20190206014345_AbpMy2018Scrapy")]
+    partial class AbpMy2018Scrapy
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
