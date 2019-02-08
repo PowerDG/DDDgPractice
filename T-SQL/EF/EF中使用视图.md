@@ -1,16 +1,16 @@
 
 
+https://bbs.csdn.net/topics/392146240
+
+0		down vote
+I'm actually working with Entity Framework "Code First" and views, the way I do it is like this:
 
 
-
+###  1) Create a class
 
 ```csharp
 
-0
-down vote
-I'm actually working with Entity Framework "Code First" and views, the way I do it is like this:
 
-1) Create a class
 
 [Table("view_name_on_database")]
 public class ViewClassName {
@@ -19,8 +19,16 @@ public class ViewClassName {
     public string Name {get; set;}
     // And a few more...
 }
----
-2) Add the class to the context
+```
+
+ 
+
+###  2) Add the class to the contexts
+
+##### 不要加  modelBuilder.Ignore<ViewClassName>(); 这句。
+
+```csharp
+
 
 public class ContextName : DbContext {
     // Tables
