@@ -1033,6 +1033,28 @@ namespace DgMission.Migrations
                     b.ToTable("AbpTenants");
                 });
 
+            modelBuilder.Entity("DgMission.Scrapy.TencentPosition", b =>
+                {
+                    b.Property<int?>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<uint>("people_num");
+
+                    b.Property<string>("position_link");
+
+                    b.Property<string>("position_name");
+
+                    b.Property<string>("position_type");
+
+                    b.Property<DateTime>("publish_time");
+
+                    b.Property<string>("work_address");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("TencentPositions");
+                });
+
             modelBuilder.Entity("Abp.Application.Features.EditionFeatureSetting", b =>
                 {
                     b.HasBaseType("Abp.Application.Features.FeatureSetting");

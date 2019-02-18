@@ -7,7 +7,7 @@ url:rm-m5eo20y3da0474671mo.mysql.rds.aliyuncs.com
 端口：3306
 账号：db_develop
 密码：11qaz!11QAZ
- 
+
 先删除所有迁移
 
 Add-Migration "AbpMy"
@@ -15,10 +15,16 @@ Add-Migration "AbpMy"
 Add-Migration AbpMy201810
 
 Update-Database
- 
+
 The specified framework version '2.1' could not be parsed The specified framework 'Microsoft.NETCore.App', version '2.1' was not found.
 
 出现下面的错误，只要把EntityFramewrokCore项目设置为启动项目，
+
+
+
+Data Source=hk1.yixinjie.com;Initial Catalog=ruiqing;Persist Security Info=True;User ID=rq
+
+
 
 再次执行add-migration命令就成功了。
 --------------------- 
@@ -27,7 +33,7 @@ The specified framework version '2.1' could not be parsed The specified framewor
 原文：https://blog.csdn.net/Yurixu/article/details/84578308 
 版权声明：本文为博主原创文章，转载请附上博文链接！
 
- 
+
 namespace DgMission.EntityFrameworkCore
 {
 ​    public static class DgMissionDbContextConfigurer
@@ -65,6 +71,8 @@ namespace DgMission.EntityFrameworkCore
  "ConnectionStrings": {
 ​        "Default": "Server=localhost; ;port=3306;database=DgMissionDb;uid=root;password=wsx1001"
 ​    },
+
+---
 
 
 
@@ -123,6 +131,28 @@ ALTER TABLE `AbpUserLoginAttempts` RENAME INDEX `IX_AbpUserLoginUserNameOrEmailA
 
 
 Identifier name 'IX_AbpUserLoginAttempts_TenancyName_UserNameOrEmailAddress_Result' is too long
+
+```
+
+----
+
+
+
+```
+FTP地址
+主机名：ruiqing.yixinjie.com
+用户名：ruiqing.yixinjie.com|ruiqing
+密码：rq@123456
+使用主动模式连接
+
+瑞庆物流数据库（SQL Server2014）：hk1.yixinjie.com
+用户名：rq
+密码：rq@2019
+
+
+
+临时域名：ruiqing.yixinjie.com
+需要部署到hk1上
 
 ```
 
