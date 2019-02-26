@@ -375,6 +375,24 @@ namespace DgMission.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "TencentPositions",
+                columns: table => new
+                {
+                    Id = table.Column<int>(nullable: false)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
+                    position_name = table.Column<string>(nullable: true),
+                    position_link = table.Column<string>(nullable: true),
+                    position_type = table.Column<string>(nullable: true),
+                    people_num = table.Column<uint>(nullable: false),
+                    work_address = table.Column<string>(nullable: true),
+                    publish_time = table.Column<string>(nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_TencentPositions", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "AbpFeatures",
                 columns: table => new
                 {
@@ -1083,6 +1101,9 @@ namespace DgMission.Migrations
 
             migrationBuilder.DropTable(
                 name: "AbpUserTokens");
+
+            migrationBuilder.DropTable(
+                name: "TencentPositions");
 
             migrationBuilder.DropTable(
                 name: "AbpEntityChanges");
