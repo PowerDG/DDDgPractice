@@ -1,5 +1,5 @@
 # DDDgPractice-
-DDD实践，基于2018ABP实践基础
+DDD实践，借助ABP学习实践
 
 
 
