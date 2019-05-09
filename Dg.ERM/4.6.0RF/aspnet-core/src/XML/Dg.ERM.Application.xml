@@ -59,6 +59,11 @@
             DisplayName
             </summary>
         </member>
+        <member name="T:Dg.ERM.Authorization.ExtendInfos.Dtos.ExtendInfoListDto">
+            <summary>
+            ListDto
+            </summary>
+        </member>
         <member name="P:Dg.ERM.Authorization.ExtendInfos.Dtos.ExtendInfoListDto.TenantId">
             <summary>
             TenantId
