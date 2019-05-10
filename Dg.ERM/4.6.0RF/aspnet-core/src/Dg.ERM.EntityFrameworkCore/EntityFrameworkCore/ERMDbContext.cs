@@ -18,6 +18,8 @@ namespace Dg.ERM.EntityFrameworkCore
         //DgCategory
 
         public DbSet<DgCategory> DgCategories { get; set; }
+
+
         public ERMDbContext(DbContextOptions<ERMDbContext> options)
             : base(options)
         {

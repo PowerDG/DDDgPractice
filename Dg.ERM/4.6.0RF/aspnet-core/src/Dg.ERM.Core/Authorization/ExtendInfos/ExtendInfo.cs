@@ -33,8 +33,7 @@ namespace Dg.ERM.Authorization.ExtendInfos
         public string EntityTypeFullName { get; set; }
         public long EnityID { get; set; }
        
-        public string Name { get; set; }
-        public string Value { get; set; }
+       
         [Required]
         public string PropertyName { get; set; }
         public string PropertyValue { get; set; }
