@@ -1,0 +1,571 @@
+DEBUG 2019-01-23 23:11:14,312 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-01-23 23:11:14,413 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-01-23 23:11:14,431 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.Web.Host.Startup.DgMissionWebHostModule, DgMission.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,435 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionWebCoreModule, DgMission.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,435 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionApplicationModule, DgMission.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,436 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionCoreModule, DgMission.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,436 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,437 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,437 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,437 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,438 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,438 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,438 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,438 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,439 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,439 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,439 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:14,442 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-01-23 23:11:14,528 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:11:14,528 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:11:14,528 [1    ] o.Configuration.LanguageManagementConfig - Converted DgMission (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:11:14,528 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:11:14,899 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: DgMission.EntityFrameworkCore.DgMissionDbContext, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:11:15,394 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-01-23 23:11:15,565 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-01-23 23:11:15,623 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-01-23 23:11:15,650 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: DgMission
+DEBUG 2019-01-23 23:11:15,686 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-01-23 23:11:15,726 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-01-23 23:11:15,821 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-01-23 23:11:15,821 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-01-23 23:11:15,829 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.CreateUserDto
+DEBUG 2019-01-23 23:11:15,829 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.UserDto
+DEBUG 2019-01-23 23:11:15,830 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-01-23 23:11:15,830 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-01-23 23:11:15,830 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.CreateRoleDto
+DEBUG 2019-01-23 23:11:15,830 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.PermissionDto
+DEBUG 2019-01-23 23:11:15,830 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.RoleDto
+DEBUG 2019-01-23 23:11:15,831 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-01-23 23:11:15,831 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.TenantDto
+FATAL 2019-01-23 23:11:18,907 [1    ] Abp.AbpBootstrapper                      - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+FATAL 2019-01-23 23:11:18,950 [1    ] soft.AspNetCore.Hosting.Internal.WebHost - Application startup exception
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+   at Abp.AspNetCore.AbpApplicationBuilderExtensions.InitializeAbp(IApplicationBuilder app) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\AbpApplicationBuilderExtensions.cs:line 67
+   at Abp.AspNetCore.AbpApplicationBuilderExtensions.UseAbp(IApplicationBuilder app, Action`1 optionsAction) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\AbpApplicationBuilderExtensions.cs:line 38
+   at DgMission.Web.Host.Startup.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Host\Startup\Startup.cs:line 90
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+INFO  2019-01-23 23:11:19,444 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-01-23 23:11:19,607 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 157.1136ms 500 text/html; charset=utf-8
+INFO  2019-01-23 23:11:19,626 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-01-23 23:11:19,647 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 20.4144ms 500 text/html; charset=utf-8
+DEBUG 2019-01-23 23:15:58,313 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-01-23 23:15:58,431 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-01-23 23:15:58,453 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.Web.Host.Startup.DgMissionWebHostModule, DgMission.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,456 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionWebCoreModule, DgMission.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,457 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionApplicationModule, DgMission.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,457 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionCoreModule, DgMission.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,458 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,458 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,458 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,459 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,459 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,460 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,460 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,460 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:15:58,465 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-01-23 23:15:58,547 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:15:58,547 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:15:58,547 [1    ] o.Configuration.LanguageManagementConfig - Converted DgMission (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:15:58,547 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:15:59,048 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: DgMission.EntityFrameworkCore.DgMissionDbContext, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:00,575 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-01-23 23:16:00,769 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-01-23 23:16:00,825 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-01-23 23:16:00,853 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: DgMission
+DEBUG 2019-01-23 23:16:00,892 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-01-23 23:16:01,096 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-01-23 23:16:01,150 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-01-23 23:16:01,150 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-01-23 23:16:01,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.CreateUserDto
+DEBUG 2019-01-23 23:16:01,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.UserDto
+DEBUG 2019-01-23 23:16:01,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-01-23 23:16:01,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-01-23 23:16:01,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.CreateRoleDto
+DEBUG 2019-01-23 23:16:01,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.PermissionDto
+DEBUG 2019-01-23 23:16:01,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.RoleDto
+DEBUG 2019-01-23 23:16:01,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-01-23 23:16:01,161 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.TenantDto
+DEBUG 2019-01-23 23:16:30,049 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-01-23 23:16:30,093 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-01-23 23:16:30,114 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.Web.Host.Startup.DgMissionWebHostModule, DgMission.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,117 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionWebCoreModule, DgMission.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,118 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionApplicationModule, DgMission.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,118 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionCoreModule, DgMission.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,118 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,118 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,118 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,119 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,119 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,119 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,120 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,120 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,121 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,121 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,122 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,128 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-01-23 23:16:30,198 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:16:30,198 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:16:30,198 [1    ] o.Configuration.LanguageManagementConfig - Converted DgMission (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:16:30,198 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:16:30,533 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: DgMission.EntityFrameworkCore.DgMissionDbContext, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:16:30,967 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-01-23 23:16:31,144 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-01-23 23:16:31,219 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-01-23 23:16:31,262 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: DgMission
+DEBUG 2019-01-23 23:16:31,313 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-01-23 23:16:31,363 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-01-23 23:16:31,418 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-01-23 23:16:31,418 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-01-23 23:16:31,426 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.CreateUserDto
+DEBUG 2019-01-23 23:16:31,426 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.UserDto
+DEBUG 2019-01-23 23:16:31,427 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-01-23 23:16:31,427 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-01-23 23:16:31,427 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.CreateRoleDto
+DEBUG 2019-01-23 23:16:31,427 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.PermissionDto
+DEBUG 2019-01-23 23:16:31,427 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.RoleDto
+DEBUG 2019-01-23 23:16:31,428 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-01-23 23:16:31,428 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.TenantDto
+FATAL 2019-01-23 23:16:34,678 [1    ] Abp.AbpBootstrapper                      - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+FATAL 2019-01-23 23:16:34,695 [1    ] soft.AspNetCore.Hosting.Internal.WebHost - Application startup exception
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+   at Abp.AspNetCore.AbpApplicationBuilderExtensions.InitializeAbp(IApplicationBuilder app) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\AbpApplicationBuilderExtensions.cs:line 67
+   at Abp.AspNetCore.AbpApplicationBuilderExtensions.UseAbp(IApplicationBuilder app, Action`1 optionsAction) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\AbpApplicationBuilderExtensions.cs:line 38
+   at DgMission.Web.Host.Startup.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Host\Startup\Startup.cs:line 90
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+INFO  2019-01-23 23:16:35,248 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-01-23 23:16:35,405 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 155.6192ms 500 text/html; charset=utf-8
+DEBUG 2019-01-23 23:20:35,712 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-01-23 23:20:35,894 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-01-23 23:20:35,920 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.Web.Host.Startup.DgMissionWebHostModule, DgMission.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionWebCoreModule, DgMission.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,928 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionApplicationModule, DgMission.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,928 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionCoreModule, DgMission.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,928 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,928 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,929 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,930 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,930 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,930 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,930 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:35,934 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-01-23 23:20:36,031 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:20:36,031 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:20:36,031 [1    ] o.Configuration.LanguageManagementConfig - Converted DgMission (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:20:36,031 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:20:36,453 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: DgMission.EntityFrameworkCore.DgMissionDbContext, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:20:37,970 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-01-23 23:20:38,186 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-01-23 23:20:38,245 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-01-23 23:20:38,276 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: DgMission
+DEBUG 2019-01-23 23:20:38,335 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-01-23 23:20:38,567 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-01-23 23:20:38,625 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-01-23 23:20:38,625 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-01-23 23:20:38,636 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.CreateUserDto
+DEBUG 2019-01-23 23:20:38,637 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.UserDto
+DEBUG 2019-01-23 23:20:38,637 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-01-23 23:20:38,637 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-01-23 23:20:38,638 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.CreateRoleDto
+DEBUG 2019-01-23 23:20:38,638 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.PermissionDto
+DEBUG 2019-01-23 23:20:38,638 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.RoleDto
+DEBUG 2019-01-23 23:20:38,638 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-01-23 23:20:38,638 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.TenantDto
+FATAL 2019-01-23 23:21:01,939 [1    ] Abp.AbpBootstrapper                      - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+FATAL 2019-01-23 23:21:04,974 [1    ] soft.AspNetCore.Hosting.Internal.WebHost - Application startup exception
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+   at Abp.AspNetCore.AbpApplicationBuilderExtensions.InitializeAbp(IApplicationBuilder app) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\AbpApplicationBuilderExtensions.cs:line 67
+   at Abp.AspNetCore.AbpApplicationBuilderExtensions.UseAbp(IApplicationBuilder app, Action`1 optionsAction) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\AbpApplicationBuilderExtensions.cs:line 38
+   at DgMission.Web.Host.Startup.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Host\Startup\Startup.cs:line 90
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+INFO  2019-01-23 23:21:05,584 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2019-01-23 23:21:05,584 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+ERROR 2019-01-23 23:21:05,629 [9    ] Microsoft.AspNetCore.Server.Kestrel      - Connection id "0HLK18PI83KGJ", Request id "0HLK18PI83KGJ:00000001": An unhandled exception was thrown by the application.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: values
+   at System.String.Join(String separator, IEnumerable`1 values)
+   at Microsoft.Extensions.RazorViews.BaseView.EndWriteAttribute()
+   at Microsoft.AspNetCore.Hosting.Views.ErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+INFO  2019-01-23 23:21:05,737 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 118.7604ms 500 
+INFO  2019-01-23 23:21:05,767 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 184.642ms 500 
+INFO  2019-01-23 23:21:39,164 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-01-23 23:21:39,220 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 50.6462ms 500 text/html; charset=utf-8
+DEBUG 2019-01-23 23:35:47,126 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-01-23 23:35:47,388 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-01-23 23:35:47,449 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.Web.Host.Startup.DgMissionWebHostModule, DgMission.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,480 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionWebCoreModule, DgMission.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,481 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionApplicationModule, DgMission.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,482 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.DgMissionCoreModule, DgMission.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,483 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,483 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,483 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,487 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,487 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,488 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,488 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,489 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,489 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:47,496 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-01-23 23:35:47,754 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:35:47,754 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:35:47,754 [1    ] o.Configuration.LanguageManagementConfig - Converted DgMission (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:35:47,754 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-23 23:35:48,550 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: DgMission.EntityFrameworkCore.DgMissionDbContext, DgMission.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-23 23:35:49,965 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-01-23 23:35:50,160 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-01-23 23:35:50,212 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-01-23 23:35:50,237 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: DgMission
+DEBUG 2019-01-23 23:35:50,270 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-01-23 23:35:50,530 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-01-23 23:35:50,615 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-01-23 23:35:50,615 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-01-23 23:35:50,623 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.CreateUserDto
+DEBUG 2019-01-23 23:35:50,625 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Users.Dto.UserDto
+DEBUG 2019-01-23 23:35:50,626 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-01-23 23:35:50,626 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-01-23 23:35:50,627 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.CreateRoleDto
+DEBUG 2019-01-23 23:35:50,627 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.PermissionDto
+DEBUG 2019-01-23 23:35:50,627 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.Roles.Dto.RoleDto
+DEBUG 2019-01-23 23:35:50,629 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-01-23 23:35:50,629 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - DgMission.MultiTenancy.Dto.TenantDto
+FATAL 2019-01-23 23:35:54,595 [1    ] Abp.AbpBootstrapper                      - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value ---> MySql.Data.MySqlClient.MySqlException: Field 'Id' doesn't have a default value
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ResultSet.cs:line 42
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 80
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 302
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 287
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 252
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(DbContext _, ValueTuple`2 parameters)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IReadOnlyList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Abp.EntityFrameworkCore.AbpDbContext.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.EntityFrameworkCore\EntityFrameworkCore\AbpDbContext.cs:line 207
+   at Abp.Zero.EntityFrameworkCore.AbpZeroCommonDbContext`3.SaveChanges() in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroCommonDbContext.cs:line 154
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.CreateEditions() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 30
+   at DgMission.EntityFrameworkCore.Seed.Host.DefaultEditionCreator.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\DefaultEditionCreator.cs:line 20
+   at DgMission.EntityFrameworkCore.Seed.Host.InitialHostDbBuilder.Create() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\Host\InitialHostDbBuilder.cs:line 14
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(DgMissionDbContext context) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 25
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 41
+   at DgMission.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\Seed\SeedHelper.cs:line 17
+   at DgMission.EntityFrameworkCore.DgMissionEntityFrameworkModule.PostInitialize() in E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.EntityFrameworkCore\EntityFrameworkCore\DgMissionEntityFrameworkModule.cs:line 46
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.AbpBootstrapper.Initialize() in D:\Github\aspnetboilerplate\src\Abp\AbpBootstrapper.cs:line 155

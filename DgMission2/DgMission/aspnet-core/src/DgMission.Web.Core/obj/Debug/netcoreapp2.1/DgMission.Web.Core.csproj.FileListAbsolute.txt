@@ -1,0 +1,17 @@
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.Web.Core.deps.json
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.Web.Core.dll
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.Web.Core.pdb
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.Application.dll
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.Core.dll
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.EntityFrameworkCore.dll
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.Application.pdb
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.EntityFrameworkCore.pdb
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.EntityFrameworkCore.dll.config
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\bin\Debug\netcoreapp2.1\DgMission.Core.pdb
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\obj\Debug\netcoreapp2.1\DgMission.Web.Core.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\obj\Debug\netcoreapp2.1\DgMission.Web.Core.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\obj\Debug\netcoreapp2.1\DgMission.Web.Core.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\obj\Debug\netcoreapp2.1\DgMission.Web.Core.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\obj\Debug\netcoreapp2.1\DgMission.Web.Core.csproj.CopyComplete
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\obj\Debug\netcoreapp2.1\DgMission.Web.Core.dll
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Web.Core\obj\Debug\netcoreapp2.1\DgMission.Web.Core.pdb

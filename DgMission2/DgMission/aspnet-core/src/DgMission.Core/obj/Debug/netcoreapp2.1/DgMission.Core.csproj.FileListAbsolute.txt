@@ -1,0 +1,9 @@
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\bin\Debug\netcoreapp2.1\DgMission.Core.deps.json
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\bin\Debug\netcoreapp2.1\DgMission.Core.dll
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\bin\Debug\netcoreapp2.1\DgMission.Core.pdb
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\obj\Debug\netcoreapp2.1\DgMission.Core.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\obj\Debug\netcoreapp2.1\DgMission.Core.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\obj\Debug\netcoreapp2.1\DgMission.Core.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\obj\Debug\netcoreapp2.1\DgMission.Core.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\obj\Debug\netcoreapp2.1\DgMission.Core.dll
+E:\DgProject\DDDgPractice\DgMission\DgMission\aspnet-core\src\DgMission.Core\obj\Debug\netcoreapp2.1\DgMission.Core.pdb
