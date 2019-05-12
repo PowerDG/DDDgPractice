@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace Dg.Core
@@ -9,7 +10,7 @@ namespace Dg.Core
     {
         public Users()
         {
-            UsersRoles = new HashSet<UsersRoles>();
+            var UsersRoles = new HashSet<UsersRoles>();
         }
 
         [StringLength(50)]
@@ -23,7 +24,7 @@ namespace Dg.Core
     {
         public UsersRoles()
         {
-            Users = new HashSet<Users>();
+            var Users = new HashSet<Users>();
         }
 
         [Display(Name = "角色名")]

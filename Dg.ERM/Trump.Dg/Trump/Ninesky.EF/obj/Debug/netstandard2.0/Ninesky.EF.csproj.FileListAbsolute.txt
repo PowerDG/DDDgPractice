@@ -1,0 +1,5 @@
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Ninesky.EF\bin\Debug\netstandard2.0\Ninesky.Core.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Ninesky.EF\obj\Debug\netstandard2.0\Ninesky.EF.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Ninesky.EF\obj\Debug\netstandard2.0\Ninesky.EF.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Ninesky.EF\obj\Debug\netstandard2.0\Ninesky.EF.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Ninesky.EF\obj\Debug\netstandard2.0\Ninesky.EF.AssemblyInfo.cs

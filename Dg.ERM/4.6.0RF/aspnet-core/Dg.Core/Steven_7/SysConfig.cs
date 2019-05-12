@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace Dg.Core
@@ -39,5 +40,13 @@ namespace Dg.Core
         /// 配置分类：网站配置、上传配置等
         /// </summary>
         public SysConfigClassify ConfigClassify { get; set; }
+    }
+
+    public class SysConfigClassify
+    {
+    }
+
+    public class SysConfigType
+    {
     }
 }
