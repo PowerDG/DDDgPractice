@@ -6,6 +6,7 @@ using Fonour.EntityFrameworkCore.FonourDbContexts;
 //using Fonour.EntityFrameworkCore.FonourDbContexts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 //using Microsoft.EntityFrameworkCore;
@@ -33,14 +34,28 @@ namespace Fonour.Host
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.Configure<CookiePolicyOptions>(options =>
+            {
+                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+                options.CheckConsentNeeded = context => true;
+                options.MinimumSameSitePolicy = SameSiteMode.None;
+            });
+
+
             //获取数据库连接字符串
             var sqlConnectionString = Configuration.GetConnectionString("Default");
 
             //添加数据上下文
-            services.AddDbContext<FonourDbContext>(options =>
-                options.UseNpgsql(sqlConnectionString)
-            );
+            //services.AddDbContext<FonourDbContext>(options =>
+            //    options.UseNpgsql(sqlConnectionString)
+            //);
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            //var connection = @"Server=(localdb)\mssqllocaldb;Database=EFGetStarted.AspNetCore.NewDb;Trusted_Connection=True;ConnectRetryCount=0";
+            services.AddDbContext<FonourDbContext>
+                (options => options.UseNpgsql(sqlConnectionString));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

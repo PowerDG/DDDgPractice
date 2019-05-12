@@ -6,6 +6,12 @@ using System.Text;
 
 namespace Fonour.EntityFrameworkCore.FonourDbContexts
 {
+
+    /// <summary>
+    /// /
+    /// 
+    /// https://docs.microsoft.com/zh-cn/ef/core/index
+    /// </summary>
     public class FonourDbContext : DbContext
     {
         public FonourDbContext(DbContextOptions<FonourDbContext> options) : base(options)
