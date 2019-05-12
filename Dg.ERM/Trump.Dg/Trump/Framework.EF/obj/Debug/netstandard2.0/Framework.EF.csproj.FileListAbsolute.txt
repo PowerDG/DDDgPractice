@@ -1,0 +1,6 @@
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Framework.EF\bin\Debug\netstandard2.0\Framework.EF.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Framework.EF\bin\Debug\netstandard2.0\Framework.EF.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Framework.EF\obj\Debug\netstandard2.0\Framework.EF.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Framework.EF\obj\Debug\netstandard2.0\Framework.EF.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Framework.EF\obj\Debug\netstandard2.0\Framework.EF.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Framework.EF\obj\Debug\netstandard2.0\Framework.EF.csprojAssemblyReference.cache
