@@ -12,11 +12,13 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.0" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.Design" Version="1.1.1" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Fonour.Application\Fonour.Application.csproj" />
     <ProjectReference Include="..\Fonour.Domain\Fonour.Domain.csproj" />
     <ProjectReference Include="..\Fonour.EntityFrameworkCore\Fonour.EntityFrameworkCore.csproj" />
   </ItemGroup>

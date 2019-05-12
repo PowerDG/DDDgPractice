@@ -9,7 +9,12 @@ namespace Fonour.EntityFrameworkCore.FonourDbContexts
 
     /// <summary>
     /// /
+    /// Asp.Net Core 项目实战之权限管理系统（3） 通过EntityFramework Core使用PostgreSQL
+    /// http://www.cnblogs.com/fonour/p/5886292.html
+    /// Asp.Net Core 项目实战之权限管理系统（4） 依赖注入、仓储、服务的多项目分层实现
+    /// http://www.cnblogs.com/fonour/p/5904530.html
     /// 
+    /// Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术。
     /// https://docs.microsoft.com/zh-cn/ef/core/index
     /// </summary>
     public class FonourDbContext : DbContext

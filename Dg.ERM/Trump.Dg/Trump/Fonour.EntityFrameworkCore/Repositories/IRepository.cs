@@ -80,12 +80,12 @@ namespace Fonour.EntityFrameworkCore.Repositories
         /// 删除实体
         /// </summary>
         /// <param name="entity">要删除的实体</param>
-        bool Delete(TEntity entity);
+        //bool Delete(TEntity entity);
 
-        /// <summary>
-        /// 删除实体
-        /// </summary>
-        /// <param name="id">实体主键</param>
-        bool Delete(TPrimaryKey id);
+        ///// <summary>
+        ///// 删除实体
+        ///// </summary>
+        ///// <param name="id">实体主键</param>
+        //bool Delete(TPrimaryKey id);
     }
 }
