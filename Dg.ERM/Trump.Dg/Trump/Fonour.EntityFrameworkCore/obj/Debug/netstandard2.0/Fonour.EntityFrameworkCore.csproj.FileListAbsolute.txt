@@ -1,0 +1,12 @@
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\bin\Debug\netstandard2.0\Fonour.EntityFrameworkCore.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\bin\Debug\netstandard2.0\Fonour.EntityFrameworkCore.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\obj\Debug\netstandard2.0\Fonour.EntityFrameworkCore.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\obj\Debug\netstandard2.0\Fonour.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\obj\Debug\netstandard2.0\Fonour.EntityFrameworkCore.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\obj\Debug\netstandard2.0\Fonour.EntityFrameworkCore.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\bin\Debug\netstandard2.0\Fonour.EntityFrameworkCore.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\bin\Debug\netstandard2.0\Fonour.Domain.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\bin\Debug\netstandard2.0\Fonour.Domain.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\obj\Debug\netstandard2.0\Fonour.EntityFrameworkCore.csproj.CopyComplete
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\obj\Debug\netstandard2.0\Fonour.EntityFrameworkCore.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.EntityFrameworkCore\obj\Debug\netstandard2.0\Fonour.EntityFrameworkCore.pdb

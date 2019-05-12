@@ -1,0 +1,9 @@
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\bin\Debug\netstandard2.0\Fonour.Domain.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\bin\Debug\netstandard2.0\Fonour.Domain.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\bin\Debug\netstandard2.0\Fonour.Domain.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\obj\Debug\netstandard2.0\Fonour.Domain.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\obj\Debug\netstandard2.0\Fonour.Domain.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\obj\Debug\netstandard2.0\Fonour.Domain.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\obj\Debug\netstandard2.0\Fonour.Domain.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\obj\Debug\netstandard2.0\Fonour.Domain.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Fonour.Domain\obj\Debug\netstandard2.0\Fonour.Domain.csprojAssemblyReference.cache

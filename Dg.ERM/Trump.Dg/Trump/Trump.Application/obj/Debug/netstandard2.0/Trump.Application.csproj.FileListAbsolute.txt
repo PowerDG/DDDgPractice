@@ -1,0 +1,9 @@
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\bin\Debug\netstandard2.0\Trump.Application.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\bin\Debug\netstandard2.0\Trump.Application.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\bin\Debug\netstandard2.0\Trump.Application.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\obj\Debug\netstandard2.0\Trump.Application.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\obj\Debug\netstandard2.0\Trump.Application.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\obj\Debug\netstandard2.0\Trump.Application.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\obj\Debug\netstandard2.0\Trump.Application.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\obj\Debug\netstandard2.0\Trump.Application.dll
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\Trump.Application\obj\Debug\netstandard2.0\Trump.Application.pdb

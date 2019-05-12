@@ -1,0 +1,4 @@
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\BaseDg.App\obj\Debug\netstandard2.0\BaseDg.App.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\BaseDg.App\obj\Debug\netstandard2.0\BaseDg.App.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\BaseDg.App\obj\Debug\netstandard2.0\BaseDg.App.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\Trump.Dg\Trump\BaseDg.App\obj\Debug\netstandard2.0\BaseDg.App.AssemblyInfo.cs
