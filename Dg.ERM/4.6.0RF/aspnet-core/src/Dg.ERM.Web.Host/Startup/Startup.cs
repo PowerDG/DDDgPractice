@@ -11,12 +11,15 @@ using Castle.Facilities.Logging;
 using Swashbuckle.AspNetCore.Swagger;
 using Abp.AspNetCore;
 using Abp.Castle.Logging.Log4Net;
-using Abp.Extensions;
 using Dg.ERM.Configuration;
 using Dg.ERM.Identity;
 
 using Abp.AspNetCore.SignalR.Hubs;
 using System.IO;
+//using Dg.ERM.MongoDB;
+
+
+using Abp.Extensions;
 
 namespace Dg.ERM.Web.Host.Startup
 {
@@ -108,6 +111,12 @@ namespace Dg.ERM.Web.Host.Startup
                 //var remark = "..//XML//AbpDemo.Application.xml";
                 //options.IncludeXmlComments(remark);
             });
+
+            //services.AddMongoDbContext<MyDbContext>(options =>
+            //{
+            //    options.AddDefaultRepositories(includeAllEntities: true);
+            //});
+
 
             // Configure Abp and Dependency Injection
             return services.AddAbp<ERMWebHostModule>(

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PowerDg", "PowerDg", "{EF77ABD2-A24D-444A-B6B0-4E30BFC22247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerDg.Core", "PowerDg.Core\PowerDg.Core.csproj", "{C44D439B-BF57-4AC9-B73A-29D7ED859DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerDg.Application", "PowerDg.Application\PowerDg.Application.csproj", "{440934A7-C4FE-444C-9CB5-24DAFD503E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerDg.Host", "PowerDg.Host\PowerDg.Host.csproj", "{FF654F64-D9EF-43B0-BFB3-1CC34B46E95B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerDg.MongoDB", "PowerDg.MongoDB\PowerDg.MongoDB.csproj", "{264494EC-82DE-4AB2-AAEB-74339A7FD43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44D439B-BF57-4AC9-B73A-29D7ED859DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44D439B-BF57-4AC9-B73A-29D7ED859DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44D439B-BF57-4AC9-B73A-29D7ED859DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44D439B-BF57-4AC9-B73A-29D7ED859DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440934A7-C4FE-444C-9CB5-24DAFD503E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440934A7-C4FE-444C-9CB5-24DAFD503E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440934A7-C4FE-444C-9CB5-24DAFD503E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440934A7-C4FE-444C-9CB5-24DAFD503E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF654F64-D9EF-43B0-BFB3-1CC34B46E95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF654F64-D9EF-43B0-BFB3-1CC34B46E95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF654F64-D9EF-43B0-BFB3-1CC34B46E95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF654F64-D9EF-43B0-BFB3-1CC34B46E95B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264494EC-82DE-4AB2-AAEB-74339A7FD43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264494EC-82DE-4AB2-AAEB-74339A7FD43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264494EC-82DE-4AB2-AAEB-74339A7FD43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264494EC-82DE-4AB2-AAEB-74339A7FD43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C44D439B-BF57-4AC9-B73A-29D7ED859DA9} = {EF77ABD2-A24D-444A-B6B0-4E30BFC22247}
+		{440934A7-C4FE-444C-9CB5-24DAFD503E40} = {EF77ABD2-A24D-444A-B6B0-4E30BFC22247}
+		{FF654F64-D9EF-43B0-BFB3-1CC34B46E95B} = {EF77ABD2-A24D-444A-B6B0-4E30BFC22247}
+		{264494EC-82DE-4AB2-AAEB-74339A7FD43F} = {EF77ABD2-A24D-444A-B6B0-4E30BFC22247}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF05338C-27D7-4BBD-A5A3-C7F8179F53AA}
+	EndGlobalSection
+EndGlobal

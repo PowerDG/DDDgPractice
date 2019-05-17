@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="0.17.0.0" />
+    <ProjectReference Include="..\PowerDg.Application.Contracts\PowerDg.Application.Contracts.csproj" />
+    <ProjectReference Include="..\PowerDg.Domain\PowerDg.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg\PowerDg.MongoDB\bin\Debug\netstandard2.0\PowerDg.MongoDB.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg\PowerDg.MongoDB\bin\Debug\netstandard2.0\PowerDg.MongoDB.dll
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg\PowerDg.MongoDB\obj\Debug\netstandard2.0\PowerDg.MongoDB.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg\PowerDg.MongoDB\obj\Debug\netstandard2.0\PowerDg.MongoDB.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg\PowerDg.MongoDB\obj\Debug\netstandard2.0\PowerDg.MongoDB.AssemblyInfo.cs

@@ -1,0 +1,39 @@
+﻿using System.IO;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Configuration;
+
+namespace PowerDg.Host
+{
+    public class DemoAppDbContextFactory : IDesignTimeDbContextFactory<DemoAppDbContext>
+    {
+        public DemoAppDbContext CreateDbContext(string[] args)
+        {
+            var configuration = BuildConfiguration();
+
+            var builder = new DbContextOptionsBuilder<DemoAppDbContext>()
+                .UseNpgsql(configuration.GetConnectionString("Default"));
+            
+                //.UseSqlServer(configuration.GetConnectionString("Default"));
+
+            //Add - Migration Init
+            //Update - Database
+
+            //Install - Package Microsoft.EntityFrameworkCore.Tools
+            //Install - Package Npgsql.EntityFrameworkCore.PostgreSQL
+            //Install - Package Npgsql.EntityFrameworkCore.PostgreSQL.Design
+
+
+            return new DemoAppDbContext(builder.Options);
+        }
+
+        private static IConfigurationRoot BuildConfiguration()
+        {
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false);
+
+            return builder.Build();
+        }
+    }
+}
