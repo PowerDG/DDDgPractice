@@ -12,13 +12,18 @@ namespace PowerDg.ERM.Authorization
             context.CreatePermission(PermissionNames.Pages_Roles, L("Roles"));
             context.CreatePermission(PermissionNames.Pages_Tenants, L("Tenants"), multiTenancySides: MultiTenancySides.Host);
 
-            #region MyRegion
+            #region TMS-PermissionNames
 
 
             var pages = context.GetPermissionOrNull(PermissionNames.Pages);
 
             if (pages == null)
                 pages = context.CreatePermission(PermissionNames.Pages, L(PermissionNames.Pages));
+
+
+            #region Pages_Bill  货票管理
+
+          
 
             var Pages_Bill = pages.CreateChildPermission(PermissionNames.Pages_Bill, L(PermissionNames.Pages_Bill));
 
@@ -37,21 +42,21 @@ namespace PowerDg.ERM.Authorization
             Pages_Bill.CreateChildPermission(PermissionNames.Pages_BillEditOther, L(PermissionNames.Pages_BillEditOther));
             Pages_Bill.CreateChildPermission(PermissionNames.Pages_BillCheckOther, L(PermissionNames.Pages_BillCheckOther));
 
-
-
+            #endregion
+             
+            #region Pages_Staff 员工管理
 
             var Pages_Staff = pages.CreateChildPermission(PermissionNames.Pages_Staff, L(PermissionNames.Pages_Staff));
 
             Pages_Staff.CreateChildPermission(PermissionNames.Pages_Staff_Merchandiser, L(PermissionNames.Pages_Staff_Merchandiser));
             Pages_Staff.CreateChildPermission(PermissionNames.Pages_Staff_Customer_service, L(PermissionNames.Pages_Staff_Customer_service));
             Pages_Staff.CreateChildPermission(PermissionNames.Pages_Staff_Financial, L(PermissionNames.Pages_Staff_Financial));
+             
 
-
-
-            Pages_Staff.CreateChildPermission(PermissionNames.Pages_Staff_Owner, L(PermissionNames.Pages_Staff_Owner));
-
+            Pages_Staff.CreateChildPermission(PermissionNames.Pages_Staff_Owner, L(PermissionNames.Pages_Staff_Owner)); 
             Pages_Staff.CreateChildPermission(PermissionNames.Pages_Staff_Others, L(PermissionNames.Pages_Staff_Others));
 
+            #endregion
 
             //Inspection
 
