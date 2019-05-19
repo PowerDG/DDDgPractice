@@ -1,0 +1,11 @@
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.runtimeconfig.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.runtimeconfig.dev.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.dll
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.dll
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.pdb

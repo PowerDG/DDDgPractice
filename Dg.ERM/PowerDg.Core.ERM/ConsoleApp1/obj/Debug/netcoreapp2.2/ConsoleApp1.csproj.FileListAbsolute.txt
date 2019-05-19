@@ -8,3 +8,4 @@ E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcorea
 E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
 E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
 E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache

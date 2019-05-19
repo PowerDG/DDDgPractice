@@ -12,7 +12,7 @@ namespace IdentityServerCenter
         {
             return new List<ApiResource>
             {
-                new ApiResource("api","My API")
+                new ApiResource("api","My Api")
             };
         }
 
