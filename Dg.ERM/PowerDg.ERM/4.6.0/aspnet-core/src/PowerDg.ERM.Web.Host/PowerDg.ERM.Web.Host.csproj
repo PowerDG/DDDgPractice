@@ -9,6 +9,9 @@
     <UserSecretsId>PowerDg-ERM-56C2EF2F-ABD6-4EFC-AAF2-2E81C34E8FB1</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Remove="Controllers\CoreDGDictController.cs" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Remove="wwwroot\swagger\ui\index.html" />
   </ItemGroup>
   <ItemGroup>

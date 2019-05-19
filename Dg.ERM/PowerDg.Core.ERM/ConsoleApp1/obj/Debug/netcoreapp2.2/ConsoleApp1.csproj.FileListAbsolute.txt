@@ -1,0 +1,10 @@
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
