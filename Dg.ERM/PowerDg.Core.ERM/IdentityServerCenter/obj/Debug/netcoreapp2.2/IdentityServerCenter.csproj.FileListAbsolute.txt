@@ -1,0 +1,14 @@
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.runtimeconfig.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.runtimeconfig.dev.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.dll
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.RazorAssemblyInfo.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.RazorAssemblyInfo.cs
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.RazorTargetAssemblyInfo.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.pdb
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.dll
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.pdb

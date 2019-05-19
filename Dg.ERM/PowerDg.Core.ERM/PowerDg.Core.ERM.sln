@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ERM.IDS4", "ERM.IDS4", "{94BF49A0-0EAD-4FAF-A21A-F713F365D6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerCenter", "IdentityServerCenter\IdentityServerCenter.csproj", "{74DB09B4-FD10-4F87-9E1D-C9963B8F9BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientCredentialApi", "ClientCredentialApi\ClientCredentialApi.csproj", "{D3F169FD-6944-4DD2-8755-5656A8A0E3B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DB09B4-FD10-4F87-9E1D-C9963B8F9BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DB09B4-FD10-4F87-9E1D-C9963B8F9BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DB09B4-FD10-4F87-9E1D-C9963B8F9BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DB09B4-FD10-4F87-9E1D-C9963B8F9BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F169FD-6944-4DD2-8755-5656A8A0E3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F169FD-6944-4DD2-8755-5656A8A0E3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F169FD-6944-4DD2-8755-5656A8A0E3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F169FD-6944-4DD2-8755-5656A8A0E3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{74DB09B4-FD10-4F87-9E1D-C9963B8F9BC1} = {94BF49A0-0EAD-4FAF-A21A-F713F365D6E7}
+		{D3F169FD-6944-4DD2-8755-5656A8A0E3B4} = {94BF49A0-0EAD-4FAF-A21A-F713F365D6E7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F8C679-9277-4A38-8E37-5C7B5236BCB2}
+	EndGlobalSection
+EndGlobal
