@@ -1,0 +1,8 @@
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.deps.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.runtimeconfig.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.runtimeconfig.dev.json
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.dll
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\Dg.ERM\PowerDg.Core.ERM\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.AssemblyInfo.cs

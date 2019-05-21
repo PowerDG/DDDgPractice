@@ -44,7 +44,7 @@ namespace ClientCredentialApi
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseAuthentication();
             app.UseMvc();
         }
     }

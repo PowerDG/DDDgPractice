@@ -9,6 +9,7 @@ namespace ThirdPartyDemo
         static void Main(string[] args)
         {
 
+            #region TokenEndpoint
             var diso = DiscoveryClient.GetAsync("http://localhost:5000").Result;
             if (diso.IsError)
             {
@@ -16,8 +17,8 @@ namespace ThirdPartyDemo
             }
             var tokenClient = new TokenClient(diso.TokenEndpoint,
                 "client", "secret");
-
-            var tokenResponse= tokenClient.RequestClientCredentialsAsync("api").Result;
+            
+            var tokenResponse = tokenClient.RequestClientCredentialsAsync("api").Result;
             if (tokenResponse.IsError)
             {
                 Console.WriteLine(tokenResponse.Error); 
@@ -27,10 +28,13 @@ namespace ThirdPartyDemo
                 Console.WriteLine(tokenResponse.Json); 
             }
 
+            #endregion
+
+
             //HttpClientDeviceFlowExtensions
             var httpClient = new HttpClient();
 
-
+            //携带Token
             httpClient.SetBearerToken(tokenResponse.AccessToken);
 
             var response = httpClient.GetAsync("http://localhost:5001/api/values").Result;
@@ -42,6 +46,9 @@ namespace ThirdPartyDemo
 
 
             Console.WriteLine("Hello World!");
+
+            Console.ReadKey();
+
         }
     }
 }

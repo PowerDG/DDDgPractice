@@ -30,8 +30,10 @@ namespace IdentityServerCenter
             services.AddIdentityServer()
                 .AddDeveloperSigningCredential()
                 .AddInMemoryApiResources(Config.GetResources())
-                .AddInMemoryClients(Config.GetClients());
+                .AddInMemoryClients(Config.GetClients())
             //http://localhost:50954/.well-known/openid-configuration
+            .AddTestUsers(Config.GetTestUsers())
+;            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
              
         }
