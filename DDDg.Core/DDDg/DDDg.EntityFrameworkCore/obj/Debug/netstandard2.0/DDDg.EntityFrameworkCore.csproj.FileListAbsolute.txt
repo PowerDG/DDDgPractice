@@ -1,0 +1,6 @@
+E:\DgProject\DDDgPractice\DDDg.Core\DDDg\DDDg.EntityFrameworkCore\bin\Debug\netstandard2.0\DDDg.EntityFrameworkCore.deps.json
+E:\DgProject\DDDgPractice\DDDg.Core\DDDg\DDDg.EntityFrameworkCore\bin\Debug\netstandard2.0\DDDg.EntityFrameworkCore.dll
+E:\DgProject\DDDgPractice\DDDg.Core\DDDg\DDDg.EntityFrameworkCore\obj\Debug\netstandard2.0\DDDg.EntityFrameworkCore.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\DDDg.Core\DDDg\DDDg.EntityFrameworkCore\obj\Debug\netstandard2.0\DDDg.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\DDDg.Core\DDDg\DDDg.EntityFrameworkCore\obj\Debug\netstandard2.0\DDDg.EntityFrameworkCore.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\DDDg.Core\DDDg\DDDg.EntityFrameworkCore\obj\Debug\netstandard2.0\DDDg.EntityFrameworkCore.AssemblyInfo.cs

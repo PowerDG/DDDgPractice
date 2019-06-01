@@ -6,6 +6,17 @@ using System.Text;
 
 namespace Trump.Domain
 {
+    /// <summary>
+    /// 
+    /// 
+    /// 用MVC5+EF6+WebApi 做一个小功能(三) 项目搭建
+    /// https://www.cnblogs.com/buyixiaohan/p/8279858.html
+    /// 用MVC5+EF6+WebApi 做一个小功能(四) 项目分层功能以及文件夹命名
+    /// https://www.cnblogs.com/buyixiaohan/p/8299244.html
+    /// 
+    /// 
+    /// </summary>
+    /// <typeparam name="TEntity"></typeparam>
     public interface IRepository<TEntity> where TEntity : class
     {
         IQueryable<TEntity> All();

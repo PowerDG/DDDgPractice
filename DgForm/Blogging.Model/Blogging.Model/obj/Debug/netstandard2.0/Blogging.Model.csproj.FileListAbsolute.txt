@@ -1,0 +1,9 @@
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\bin\Debug\netstandard2.0\Blogging.Model.deps.json
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\bin\Debug\netstandard2.0\Blogging.Model.dll
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\obj\Debug\netstandard2.0\Blogging.Model.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\obj\Debug\netstandard2.0\Blogging.Model.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\obj\Debug\netstandard2.0\Blogging.Model.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\obj\Debug\netstandard2.0\Blogging.Model.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\bin\Debug\netstandard2.0\Blogging.Model.pdb
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\obj\Debug\netstandard2.0\Blogging.Model.dll
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Model\obj\Debug\netstandard2.0\Blogging.Model.pdb

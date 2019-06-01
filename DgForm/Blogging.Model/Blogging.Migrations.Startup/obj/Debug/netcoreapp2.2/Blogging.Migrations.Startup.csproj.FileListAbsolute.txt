@@ -1,0 +1,14 @@
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\bin\Debug\netcoreapp2.2\Blogging.Migrations.Startup.deps.json
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\bin\Debug\netcoreapp2.2\Blogging.Migrations.Startup.runtimeconfig.json
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\bin\Debug\netcoreapp2.2\Blogging.Migrations.Startup.runtimeconfig.dev.json
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\bin\Debug\netcoreapp2.2\Blogging.Migrations.Startup.dll
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\obj\Debug\netcoreapp2.2\Blogging.Migrations.Startup.csprojAssemblyReference.cache
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\obj\Debug\netcoreapp2.2\Blogging.Migrations.Startup.csproj.CoreCompileInputs.cache
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\obj\Debug\netcoreapp2.2\Blogging.Migrations.Startup.AssemblyInfoInputs.cache
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\obj\Debug\netcoreapp2.2\Blogging.Migrations.Startup.AssemblyInfo.cs
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\bin\Debug\netcoreapp2.2\Blogging.Migrations.Startup.pdb
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\obj\Debug\netcoreapp2.2\Blogging.Migrations.Startup.dll
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\obj\Debug\netcoreapp2.2\Blogging.Migrations.Startup.pdb
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\bin\Debug\netcoreapp2.2\Blogging.Model.dll
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\bin\Debug\netcoreapp2.2\Blogging.Model.pdb
+E:\DgProject\DDDgPractice\DgForm\Blogging.Model\Blogging.Migrations.Startup\obj\Debug\netcoreapp2.2\Blogging.Migrations.Startup.csproj.CopyComplete

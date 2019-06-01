@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Domain\Entities\IExtendableObject.cs" />
+    <Compile Remove="Domain\Repositories2\EFBaseRepository.cs" />
+    <Compile Remove="Domain\Repositories2\IRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\Repositories2\" />
+  </ItemGroup>
+
+</Project>
