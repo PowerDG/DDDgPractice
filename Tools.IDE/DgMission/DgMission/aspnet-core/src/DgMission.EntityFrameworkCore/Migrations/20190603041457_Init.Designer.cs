@@ -5,19 +5,21 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace DgMission.Migrations
 {
     [DbContext(typeof(DgMissionDbContext))]
-    [Migration("20190206133946_AbpMy201810")]
-    partial class AbpMy201810
+    [Migration("20190603041457_Init")]
+    partial class Init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.2.1-servicing-10028")
-                .HasAnnotation("Relational:MaxIdentifierLength", 64);
+                .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.SerialColumn)
+                .HasAnnotation("ProductVersion", "2.2.4-servicing-10062")
+                .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
             modelBuilder.Entity("Abp.Application.Editions.Edition", b =>
                 {
@@ -1040,7 +1042,7 @@ namespace DgMission.Migrations
                     b.Property<int?>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<uint>("people_num");
+                    b.Property<long>("people_num");
 
                     b.Property<string>("position_link");
 
@@ -1048,7 +1050,7 @@ namespace DgMission.Migrations
 
                     b.Property<string>("position_type");
 
-                    b.Property<string>("publish_time");
+                    b.Property<DateTime>("publish_time");
 
                     b.Property<string>("work_address");
 
